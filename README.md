@@ -69,5 +69,5 @@ Errors are caught and returned with appropriate status codes and messages.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/task-manager-api.git
+git clone https://github.com/sujaysharvesh/Simple-Task-Manger-API.git
 cd task-manager-api
